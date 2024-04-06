@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Espressif/v4.4.4/esp-idf/components/bootloader/subproject",
+    "build_dir":          "E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader",
+    "config_file":        "E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.4-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Espressif/v4.4.4/esp-idf/components/efuse/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/esp32/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/esp_common/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/esp_hw_support/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/esp_system/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/freertos/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/hal/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/log/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/newlib/Kconfig;C:/Espressif/v4.4.4/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Espressif/v4.4.4/esp-idf/components/bootloader/Kconfig.projbuild;C:/Espressif/v4.4.4/esp-idf/components/esp_rom/Kconfig.projbuild;C:/Espressif/v4.4.4/esp-idf/components/esptool_py/Kconfig.projbuild;C:/Espressif/v4.4.4/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Espressif/v4.4.4/esp-idf/components/bootloader", "C:/Espressif/v4.4.4/esp-idf/components/bootloader_support", "C:/Espressif/v4.4.4/esp-idf/components/efuse", "C:/Espressif/v4.4.4/esp-idf/components/esp32", "C:/Espressif/v4.4.4/esp-idf/components/esp_common", "C:/Espressif/v4.4.4/esp-idf/components/esp_hw_support", "C:/Espressif/v4.4.4/esp-idf/components/esp_rom", "C:/Espressif/v4.4.4/esp-idf/components/esp_system", "C:/Espressif/v4.4.4/esp-idf/components/esptool_py", "C:/Espressif/v4.4.4/esp-idf/components/freertos", "C:/Espressif/v4.4.4/esp-idf/components/hal", "C:/Espressif/v4.4.4/esp-idf/components/log", "C:/Espressif/v4.4.4/esp-idf/components/bootloader/subproject/main", "C:/Espressif/v4.4.4/esp-idf/components/bootloader/subproject/components/micro-ecc", "C:/Espressif/v4.4.4/esp-idf/components/newlib", "C:/Espressif/v4.4.4/esp-idf/components/partition_table", "C:/Espressif/v4.4.4/esp-idf/components/soc", "C:/Espressif/v4.4.4/esp-idf/components/spi_flash", "C:/Espressif/v4.4.4/esp-idf/components/xtensa", "" ]
+}

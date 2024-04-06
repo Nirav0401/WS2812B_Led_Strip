@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/CMakeFiles/bootloader
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/CMakeFiles/bootloader.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/CMakeFiles/bootloader-complete.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Local/Documents/Embedded_C/ESP_Projects/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
