@@ -35,16 +35,15 @@ Run `idf.py -p PORT flash monitor` to build, flash and monitor the project.
 
 ## Example Output
 
-````
+````bash
 Connect the Digital input pin of WS2812B LED strip to the GPIO pin which you set in menuconfig.
 
 Run the example, you will see a red green blue and white colours in output.
 
-Some Functions
--------------------------------------------------------------------------------------------------------------
-void set_led_delay(uint16_t hue, uint16_t s, uint16_t v); -> function gives you delayed output of led colors.
-void clear_led() -> you can clear all the leds.
--------------------------------------------------------------------------------------------------------------
+Functions :
+
+- void set_led_delay(uint16_t hue, uint16_t s, uint16_t v); -> function gives you delayed output of led colors.
+- void clear_led() -> you can clear all the leds.
 
 ````
 
