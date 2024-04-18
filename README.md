@@ -24,6 +24,8 @@ Open the project configuration menu (`idf.py menuconfig`).
 
 * Set the GPIO number used for transmitting the IR signal under `RMT TX GPIO` option.
 * Set the number of LEDs in a strip under `Number of LEDS in a strip` option.
+* Here I have used RMT_TX_GPIO=18 and STRIP_LED_NUMBER=11.
+
 
 ### Build and Flash
 
