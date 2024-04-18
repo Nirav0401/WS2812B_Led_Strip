@@ -1,6 +1,6 @@
 # Neo Pixel LED Strip - WS2812B with RMT Driver
 
-RMT peripheral is mainly designed for infrared remote applications, but it can also support other generic protocols. [WS2812](http://www.world-semi.com/Certifications/WS2812B.html) is a digital RGB LED which integrates a driver circuit and a single control wire. The protocol data format defined in WS2812 is compatible to that in RMT peripheral. This example will illustrate how to drive an WS2812B LED strip based on the RMT driver.
+RMT peripheral is mainly designed for infrared remote applications, but it can also support other generic protocols. [WS2812](http://www.world-semi.com/Certifications/WS2812B.html) is a digital RGB LED which integrates a driver circuit and a single control wire. The protocol data format defined in WS2812B is compatible to that in RMT peripheral. This example will illustrate how to drive an WS2812B LED strip based on the RMT driver.
 
 ## How to Use Example
 
